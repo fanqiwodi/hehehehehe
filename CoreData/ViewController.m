@@ -25,7 +25,17 @@
     self.arr = [NSMutableArray array];
     
 
-    
+    NSLog(@"呵呵呵呵呵");
+    NSLog(@"呵呵呵呵呵");
+    NSLog(@"呵呵呵呵呵");
+    NSLog(@"呵呵呵呵呵");
+    NSLog(@"呵呵呵呵呵");
+    NSLog(@"呵呵呵呵呵");
+    NSLog(@"呵呵呵呵呵");
+    NSLog(@"呵呵呵呵呵");
+    NSLog(@"呵呵呵呵呵");
+    NSLog(@"呵呵呵呵呵");
+    NSLog(@"呵呵呵呵呵");
     
     
 }
